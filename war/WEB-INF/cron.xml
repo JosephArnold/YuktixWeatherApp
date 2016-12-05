@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/updatereading</url>
+    <description>update</description>
+    <schedule>every day 03:00</schedule>
+  </cron>
+  <cron>
+    <url>/updatereading</url>
+    <description>update</description>
+    <schedule>every day 12:00</schedule>
+  </cron>
+  <cron>
+    <url>/currentreading</url>
+    <description>update</description>
+    <schedule>every 20 minutes</schedule>
+  </cron>
+</cronentries>
